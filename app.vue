@@ -40,5 +40,9 @@ body
   background-color: #000f42
 
 #countdown
-  font-size: 100px
+  font-size: 50px
+
+@media (min-width: 768px)
+  #countdown
+    font-size: 100px
 </style>
